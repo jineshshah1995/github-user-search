@@ -1,0 +1,26 @@
+.nav-bar {
+  padding: 5px;
+  height: 30px;
+  background-color: rgb(7, 7, 7);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-bar-items {
+  display: flex;
+  color: white;
+}
+
+.nav-bar h2 {
+  color: white;
+}
+
+.items {
+  cursor: pointer;
+  padding: 5px;
+}
+
+.items:hover {
+  color: blue;
+}
